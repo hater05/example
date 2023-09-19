@@ -1,0 +1,15 @@
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\bin\Debug\net6.0\exemple005_conditionifelse.exe
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\bin\Debug\net6.0\exemple005_conditionifelse.deps.json
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\bin\Debug\net6.0\exemple005_conditionifelse.runtimeconfig.json
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\bin\Debug\net6.0\exemple005_conditionifelse.dll
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\bin\Debug\net6.0\exemple005_conditionifelse.pdb
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\obj\Debug\net6.0\exemple005_conditionifelse.csproj.AssemblyReference.cache
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\obj\Debug\net6.0\exemple005_conditionifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\obj\Debug\net6.0\exemple005_conditionifelse.AssemblyInfoInputs.cache
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\obj\Debug\net6.0\exemple005_conditionifelse.AssemblyInfo.cs
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\obj\Debug\net6.0\exemple005_conditionifelse.csproj.CoreCompileInputs.cache
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\obj\Debug\net6.0\exemple005_conditionifelse.dll
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\obj\Debug\net6.0\refint\exemple005_conditionifelse.dll
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\obj\Debug\net6.0\exemple005_conditionifelse.pdb
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\obj\Debug\net6.0\exemple005_conditionifelse.genruntimeconfig.cache
+C:\Users\Admin_n1\Desktop\exemple\exemple005_conditionifelse\obj\Debug\net6.0\ref\exemple005_conditionifelse.dll
